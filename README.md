@@ -5,7 +5,7 @@ In this repo you will find the following files:
 - <b> Windows Virtual Desktop Presentation: </b>A deck with the Architectural overview of the service
 - <b> Windows Virtual Desktop Hands-on Lab Guide</b>: A step-by-step guide on how to set up Windows Virtual Desktop Public Preview in your Azure Subscription, as well as the dependencies it has and other features in order to have a working tenant.
 
-This lab will guide you through:
+The lab will guide you through:
 -	How to set up a Virtual Machine which will act as your Domain Controller
 - How to Configure your Domain Controller
 -	How to configure AAD Connect
